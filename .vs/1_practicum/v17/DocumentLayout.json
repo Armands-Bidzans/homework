@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\homework_git\\1_practicum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{450229DE-7D43-425F-9231-FC75E57B35E5}|1_practicum\\1_practicum.vcxproj|C:\\Users\\User\\Desktop\\homework_git\\1_practicum\\1_practicum\\1swap_task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450229DE-7D43-425F-9231-FC75E57B35E5}|1_practicum\\1_practicum.vcxproj|solutionrelative:1_practicum\\1swap_task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1swap_task.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\homework_git\\1_practicum\\1_practicum\\1swap_task.cpp",
+              "RelativeDocumentMoniker": "1_practicum\\1swap_task.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\homework_git\\1_practicum\\1_practicum\\1swap_task.cpp",
+              "RelativeToolTip": "1_practicum\\1swap_task.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T08:11:07.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
